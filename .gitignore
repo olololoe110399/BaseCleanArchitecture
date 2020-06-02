@@ -63,3 +63,4 @@ fastlane/readme.md
 captures/
 
 /app/src/androidTest/java/com/sun_asterisk/clean_architecture_sample/ExampleInstrumentedTest.kt
+/app/src/androidTest/java/com/sun_asterisk/data/ExampleInstrumentedTest.kt
