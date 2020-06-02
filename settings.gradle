@@ -1,0 +1,2 @@
+rootProject.name = 'Clean_Architecture_Sample'
+include ':app'
